@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">POKEDEX</string>
+    <string name="clicktoopen"><u>Click to Open!</u></string>
+    <string name="pokemonname"><u>Name: </u></string>
+    <string name="pokemonweight"><u>Weight: </u></string>
+    <string name="pokemonHeight"><u>Height: </u></string>
+    <string name="pokemonid"><u>ID: </u></string>
+    <string name="pokemonOrder"><u>Order: </u></string>
+    <string name="pokemonBaseexp"><u>Base Experience: </u></string>
+</resources>
